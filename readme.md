@@ -1,2 +1,2 @@
 # kaift3
-yes
+yes.
